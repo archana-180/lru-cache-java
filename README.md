@@ -27,11 +27,7 @@ It demonstrates **Data Structures + System Design + GUI Development**.
 
 
 
-
-
----
-
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 javac *.java
